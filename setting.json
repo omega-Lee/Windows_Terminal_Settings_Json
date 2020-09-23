@@ -34,7 +34,7 @@
       "fontSize": 14, //文字大小
       "colorScheme": "One Half Dark", //主题
       "cursorColor": "#FFFFFF", //光标颜色
-      "foreground": "#FA8072", // 字体颜色
+      "foreground": "#eae3cb", // 字体颜色
       "cursorShape": "bar", //光标形状
       "startingDirectory": "D:\\", //起始目录
       //"experimental.rendering.forceFullRepaint": true//硬件渲染重绘
@@ -186,3 +186,4 @@
     }
   ]
 }
+
